@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hey, I'm Zyndara
 
-<!--
-**Zyndara/Zyndara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Also known as **Mahin Hamid**
 
-Here are some ideas to get you started:
+I'm a passionate **Web Developer** who loves building beautiful, interactive, and user-friendly web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into elegant websites that are not only visually appealing but also intuitive and enjoyable to use. My goal is to make the web feel more approachable and engaging for everyone.
+
+---
+
+## 🚀 About Me
+
+* 🌐 Web Developer
+* 🎨 Passionate about UI/UX and modern web design
+* ✨ Love creating interactive and engaging experiences
+* 📚 Always learning and exploring new technologies
+* 💡 Believe that great design is where creativity meets usability
+
+---
+
+## 🛠️ Tech Stack
+
+```text
+HTML • CSS • JavaScript
+React • Tailwind CSS • Node.js
+```
+
+> *Replace or remove technologies you don't use.*
+
+---
+
+
+---
+
+## 🌱 Currently
+
+* Building cool projects
+* Exploring modern web technologies
+* Learning something new every day
+
+---
+
+## 💭 Philosophy
+
+> "The web should be beautiful, accessible, and fun for everyone."
+
+---
+
+### Thanks for stopping by! 😊
+
+Feel free to explore my repositories and connect with me.
+
+⭐ If you like my work, consider giving a star to my projects!
