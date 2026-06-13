@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Zyndara
+#  Hey, I'm Zyndara
 
 ### Also known as **Mahin Hamid**
 
@@ -8,31 +8,20 @@ I enjoy turning ideas into elegant websites that are not only visually appealing
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🌐 Web Developer
-* 🎨 Passionate about UI/UX and modern web design
-* ✨ Love creating interactive and engaging experiences
-* 📚 Always learning and exploring new technologies
-* 💡 Believe that great design is where creativity meets usability
+*  Web Developer
+*  Passionate about UI/UX and modern web design
+*  Love creating interactive and engaging experiences
+*  Always learning and exploring new technologies
+*  Believe that great design is where creativity meets usability
 
----
 
-## 🛠️ Tech Stack
-
-```text
-HTML • CSS • JavaScript
-React • Tailwind CSS • Node.js
-```
-
-> *Replace or remove technologies you don't use.*
-
----
 
 
 ---
 
-## 🌱 Currently
+##  Currently
 
 * Building cool projects
 * Exploring modern web technologies
@@ -40,14 +29,14 @@ React • Tailwind CSS • Node.js
 
 ---
 
-## 💭 Philosophy
+##  Philosophy
 
-> "The web should be beautiful, accessible, and fun for everyone."
+The web should be beautiful, accessible, and fun for everyone.
 
 ---
 
-### Thanks for stopping by! 😊
+### Thanks for stopping by! 
 
 Feel free to explore my repositories and connect with me.
 
-⭐ If you like my work, consider giving a star to my projects!
+ If you like my work, consider giving a star to my projects!
